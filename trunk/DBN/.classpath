@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/usr/lib/apache2/commons-math-2.0.jar" sourcepath="/usr/lib/apache2/commons-math-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="/SpectralClustering/commons-lang-2.4/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/sid/softwares/jfreechart-1.0.13/jfreechart-1.0.13-demo.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
