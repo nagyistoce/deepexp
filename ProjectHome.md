@@ -1,0 +1,3 @@
+Deep belief nets are a new Deep learning Phoilosophy that are able to learn better priors that support learning in higher layers. the priors are learnt in an unsupervised manner and are able to model the data better. The important thing is that the algorithm philosophy is much more helpful in reviving  many other older and often cumbersome deep learning architectures like neural nets and perceptron models.
+The project is in early stage and is meant for my research needs. Although I hope it can grow into a better and faster library.
+The implementation has a factor of 2 improvement over Numpy implementation(MDP) and scales much better as the size of n/w and iterations improve.
